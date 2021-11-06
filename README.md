@@ -1,11 +1,14 @@
-# COVID-19-News-Modelling-
+# IRCoVDN: Information Retrieval and Classifying Covid-19 News Article using Machine Learning Algorithms
 
 <h4> Authors</h4>
 <ul>
-<li> Md. Elias Hossain <sup>1</sup></li>
+<li> Elias Hossain <sup>1</sup></li>
+<li> Md. Nadim Kaysar <sup>2</sup></li>
+
 
 </ul>
 Daffodil International University, Bangladesh <sup>1</sup> <br>
+World University of Bangladesh (WUB) <sup>2</sup> <br>
 
 # COVID-19 News dataset is available <a href="https://www.kaggle.com/hkapoor/covid19-india-news-headlines-for-nlp">here.</a>
 
